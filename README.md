@@ -11,7 +11,7 @@ Expected Functionalities of the web scraper:
 - Alternately, buy the object by clicking Buy Now
 
 Requirements for the project to work:
-- Python along with BeautifulSoup, Pandas, & Selenium installed on your system
+- Python along with BeautifulSoup installed on your system (Alternatively, you may just install Anaconda if you're testing stuff out)
 - Chromedriver (if you have Google Chrome installed) - It can be downloaded from this [link](https://chromedriver.chromium.org/downloads)
 
 Instructions (To be updated)
