@@ -5,4 +5,5 @@ page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, 'html.parser')
 results = soup.findAll("div", {"class" :"_1vC4OE _3qQ9m1"})
-print (results)
+p_name=soup.findAll("span", {"class" : "_35KyD6"})
+print (p_name, results)
